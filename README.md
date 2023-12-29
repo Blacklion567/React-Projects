@@ -10,6 +10,10 @@ _How about you add your own project and support this repository! Have any?_
 This is a free to use repository, you can clone any project from here and use it for your own purpose.
 And if you do find this repo useful, why not to :star: it?!
 
+#### Support
+
+Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/blacklion567)
+
 ## Our Website
 
 [Codinn](https://www.codinn.dev/) is an amazing platform for junior to senior level developers who wish to enhance their knowledge in the field of Web application. We are focussing on building community of millions of people around the world who are learning to write good quality code together. You can learn to code with free projects, code snippets and interview preparation for the tech jobs. Happy coding!
@@ -75,7 +79,7 @@ This project emphasizes shopping cart functionality and was crafted by [Abdullah
 
 In this project, we'll dive into crafting an engaging Sticky Notes application employing custom hooks and the Context API. Learn how to build visually appealing, functional notes using these advanced techniques in React.
 
-This was crafted by [drbarzaga](https://github.com/drbarzaga).
+This was crafted by [Blacklion567](https://github.com/Blacklion567).
 
 \*Demo and tutorial is not available on [codinn](https://www.codinn.dev/) yet.
 
@@ -83,9 +87,78 @@ This was crafted by [drbarzaga](https://github.com/drbarzaga).
 
 In this project, we are going to create a minimalist music player that will be useful for our work sessions or to relax a bit. To achieve this, we will use some tracks available on Bensound for free. Additionally, we will employ custom hooks, the Context API, animations, and learn how to use HTML components like audio within React, enabling us to manage audio in our React applications.
 
-This was crafted by [drbarzaga](https://github.com/drbarzaga).
+This was crafted by [Blacklion567](https://github.com/Blacklion567).
 
 \*Demo and tutorial is not available on [codinn](https://www.codinn.dev/) yet.
+
+# React Projects
+
+#### React Course
+
+[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+
+#### Support
+
+Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/blacklion567)
+
+#### Tutorial Video
+
+[React Tutorial](https://youtu.be/iZhV0bILFb0)
+
+#### All Projects
+
+[Projects Site](https://react-projects.netlify.app/)
+
+## Corresponding Tutorial Topics
+
+#### useState
+
+1. Birthday Reminder
+
+#### useEffect and Conditional Rendering
+
+2. Tours
+3. Reviews
+4. Questions
+5. Menu
+6. Tabs
+7. Slider
+
+#### Forms
+
+8. Lorem Ipsum Generator
+9. Color Shades Generator
+10. Grocery Bud
+
+#### useRef
+
+11. Navbar
+
+#### useContext
+
+12. Modal And Sidebar
+13. Stripe Submenus
+
+#### useReducer and useContext
+
+14. Cart
+
+#### React Router and useCallback
+
+15. Cocktails
+
+## Advanced Projects (Course Exclusive)
+
+[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+
+16. Markdown Preview
+17. Random Person
+18. Pagination
+19. Stock Photos
+20. Dark Mode
+21. Movie DB
+22. Hacker News
+23. Quiz
 
 ## Contributions
 
