@@ -1,13 +1,10 @@
-import Countergame from './01-Counter-game/Countergame';
-
-
+import MusicPlayer from "./13-Music-Player/components/MusicPlayer";
 
 
 function App() {
   return (
     <>
-      <Countergame />
-
+      <MusicPlayer />
     </>
   );
 }
